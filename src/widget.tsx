@@ -35,7 +35,7 @@ interface RecenterParams extends __esri.WidgetProperties {
   initialCenter: number[];
 }
 
-@subclass("esri.widgets.Recenter")
+@subclass("app.widgets.Recenter")
 class Recenter extends Widget {
   constructor(params?: RecenterParams) {
     super(params);
