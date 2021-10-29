@@ -7,10 +7,10 @@
     "serve": "vite preview"
   },
   "devDependencies": {
-    "typescript": "^4.3.2",
-    "vite": "^2.4.4"
+    "typescript": "^4.4.4",
+    "vite": "^2.6.13"
   },
   "dependencies": {
-    "@arcgis/core": "^4.20.2"
+    "@arcgis/core": "^4.21.2"
   }
 }

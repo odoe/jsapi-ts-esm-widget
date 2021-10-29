@@ -1,4 +1,4 @@
-@import url("https://js.arcgis.com/4.20/esri/themes/light/main.css");
+@import url("https://js.arcgis.com/4.21/esri/themes/light/main.css");
 
 html,
 body,
@@ -21,4 +21,5 @@ body,
 
 .recenter-tool>p {
   margin: 0;
+  cursor: pointer;
 }
